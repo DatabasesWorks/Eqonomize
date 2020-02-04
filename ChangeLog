@@ -1,3 +1,28 @@
+2020-02-04  Hanna Knutsson <hanna.knutsson@protonmail.com>
+
+	* Do not change account group when type is selected if custom group is
+	  set
+
+2019-09-01  Hanna Knutsson <hanna.knutsson@protonmail.com>
+
+	* Fix segfault when editing a scheduled transaction (primarily with
+	  current date) present in the expenses, incomes and/or transfers view
+
+2019-08-24  Hanna Knutsson <hanna.knutsson@protonmail.com>
+
+	* Make it possible to select multiple categories, tags, accounts,
+	  descriptions, and payees/payers in categories and report
+
+2019-08-19  Hanna Knutsson <hanna.knutsson@protonmail.com>
+
+	* Option to display absolute values instead of percent in pie chart
+
+2019-08-17  Hanna Knutsson <hanna.knutsson@protonmail.com>
+
+	* Security quotes import and export, in quotes dialog
+	* Ctrl + Home shortcut in date fields, and Home shortcut and context
+	  menu item in calendar popup, for current date selection
+
 2019-08-13  Hanna Knutsson <hanna.knutsson@protonmail.com>
 
 	* Fix set single transaction in edit widget for transaction with
